@@ -20,10 +20,10 @@ import (
 	"bytes"
 	"fmt"
 
-	"github.com/pdfcpu/pdfcpu/pkg/pdfcpu/color"
-	pdffont "github.com/pdfcpu/pdfcpu/pkg/pdfcpu/font"
-	"github.com/pdfcpu/pdfcpu/pkg/pdfcpu/model"
-	"github.com/pdfcpu/pdfcpu/pkg/pdfcpu/types"
+	"github.com/VineshNeoshore/pdfcpu/pkg/pdfcpu/color"
+	pdffont "github.com/VineshNeoshore/pdfcpu/pkg/pdfcpu/font"
+	"github.com/VineshNeoshore/pdfcpu/pkg/pdfcpu/model"
+	"github.com/VineshNeoshore/pdfcpu/pkg/pdfcpu/types"
 	"github.com/pkg/errors"
 )
 

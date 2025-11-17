@@ -22,12 +22,12 @@ import (
 	"io"
 	"math"
 
-	"github.com/pdfcpu/pdfcpu/pkg/filter"
-	"github.com/pdfcpu/pdfcpu/pkg/pdfcpu/color"
-	"github.com/pdfcpu/pdfcpu/pkg/pdfcpu/draw"
-	"github.com/pdfcpu/pdfcpu/pkg/pdfcpu/matrix"
+	"github.com/VineshNeoshore/pdfcpu/pkg/filter"
+	"github.com/VineshNeoshore/pdfcpu/pkg/pdfcpu/color"
+	"github.com/VineshNeoshore/pdfcpu/pkg/pdfcpu/draw"
+	"github.com/VineshNeoshore/pdfcpu/pkg/pdfcpu/matrix"
 
-	"github.com/pdfcpu/pdfcpu/pkg/pdfcpu/types"
+	"github.com/VineshNeoshore/pdfcpu/pkg/pdfcpu/types"
 	"github.com/pkg/errors"
 )
 

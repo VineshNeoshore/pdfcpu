@@ -21,7 +21,7 @@ import (
 	"bytes"
 	"io"
 
-	"github.com/pdfcpu/pdfcpu/pkg/log"
+	"github.com/VineshNeoshore/pdfcpu/pkg/log"
 	"github.com/pkg/errors"
 )
 

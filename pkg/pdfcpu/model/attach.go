@@ -23,9 +23,9 @@ import (
 	"sort"
 	"time"
 
-	"github.com/pdfcpu/pdfcpu/pkg/filter"
-	"github.com/pdfcpu/pdfcpu/pkg/log"
-	"github.com/pdfcpu/pdfcpu/pkg/pdfcpu/types"
+	"github.com/VineshNeoshore/pdfcpu/pkg/filter"
+	"github.com/VineshNeoshore/pdfcpu/pkg/log"
+	"github.com/VineshNeoshore/pdfcpu/pkg/pdfcpu/types"
 	"github.com/pkg/errors"
 )
 
