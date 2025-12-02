@@ -196,7 +196,7 @@ func PageCount(rs io.ReadSeeker, conf *model.Configuration) (int, error) {
 		return 0, errors.New("pdfcpu: PageCount: missing rs")
 	}
 
-	ctx, err := ReadAndValidate(rs, conf)
+	ctx, err := ReadContext(rs, conf)
 	if err != nil {
 		return 0, err
 	}
